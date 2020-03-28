@@ -6,3 +6,6 @@
 ##### 2.1 blog on the slides : https://xgboost.readthedocs.io/en/latest/tutorials/model.html 
 ##### 3. Gradient Boosting explained as the real example : https://explained.ai/gradient-boosting/L2-loss.html
 ##### 4. For the sequential decision tree : http://www.yisongyue.com/courses/cs155/2018_winter/lectures/Lecture_06.pdf
+#### A Step By Step Regression Tree Example
+#### Link: https://sefiks.com/2018/08/28/a-step-by-step-regression-decision-tree-example/
+##### 1. Github : https://github.com/serengil/chefboost
