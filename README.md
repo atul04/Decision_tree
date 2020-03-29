@@ -9,3 +9,4 @@
 #### A Step By Step Regression Tree Example
 #### Link: https://sefiks.com/2018/08/28/a-step-by-step-regression-decision-tree-example/
 ##### 1. Github : https://github.com/serengil/chefboost
+##### 2. Chefboost Blog : https://sefiks.com/2019/08/31/a-begineers-guide-to-decision-trees-in-python/
